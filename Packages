@@ -1,4 +1,4 @@
-Package: seeyouios.github.kernbypass007
+Package: jb.akusio.kernbypass007
 Section: Tweaks
 Maintainer: akusio
 Architecture: iphoneos-arm
@@ -22,4 +22,17 @@ Depends: mobilesubstrate, com.muirey03.libmryipc
 SileoDepiction: https://myclassic.net/sileo.php?pid=1570
 Name: A-Bypass
 Author: Baw Appie <pp121324@gmail.com>
+Depiction: https://SeeYouiiOS.github.io
+
+Package: seeyouios
+Name:MOD SeeYouIOS mod menu 
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: SeeYouIOS Mod Menu 
+Maintainer: SeeYouIOS
+Filename: ./deb/(SeeYouIOS)Modmenu Global 0.19.deb
+Author: SeeYouIOS
+Section: Tweaks
+Version: 0.19
+Installed-Size: 592
 Depiction: https://SeeYouiiOS.github.io
