@@ -1,0 +1,10 @@
+Package: com.rashidFarhad.apphacks
+Section: Tweaks
+Installed-Size: 4012
+Maintainer: RashidFarhad
+Architecture: iphoneos-arm
+Version: 6.5
+Depends: mobilesubstrate, ws.hbang.common
+Description: HACK ANY GAME AND APP !
+Name: AppHacks 
+Author: RashidFarhad

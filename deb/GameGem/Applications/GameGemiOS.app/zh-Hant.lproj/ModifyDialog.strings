@@ -1,0 +1,12 @@
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "7ti-ge-R81"; */
+"7ti-ge-R81.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "bjF-4p-bbs"; */
+"bjF-4p-bbs.normalTitle" = "Confirm";
+
+/* Class = "UILabel"; text = "MODIFY VALUE"; ObjectID = "lOc-hT-Hzx"; */
+"lOc-hT-Hzx.text" = "MODIFY VALUE";
+
+/* Class = "UITextField"; placeholder = "Input Value"; ObjectID = "prN-k8-3E7"; */
+"prN-k8-3E7.placeholder" = "Input Value";
+

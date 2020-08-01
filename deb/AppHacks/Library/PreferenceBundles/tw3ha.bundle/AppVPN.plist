@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>defaults</key>
+			<string>com.github.tw3to.tw3ha</string>
+			<key>footerText</key>
+			<string>ئەکیتڤ کردنی Pro🌈</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.github.tw3to.tw3ha/ReloadPrefs</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.github.tw3to.tw3ha</string>
+			<key>icon</key>
+			<string>icon/fir@2x.png</string>
+			<key>key</key>
+			<string>fir</string>
+			<key>label</key>
+			<string>FirstVPN Premium</string>
+		</dict>
+		<dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/dow@2x.png</string>
+			<key>label</key>
+			<string>FirstVPN</string>
+			<key>subtitle</key>
+			<string>لێرەوە داونلود بکە ♻️</string>
+			<key>url</key>
+			<string>https://apps.apple.com/app/firstvpn-wifi-security-master/id1403281172</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>defaults</key>
+			<string>com.github.tw3to.tw3ha</string>
+			<key>footerText</key>
+			<string>ئەکیتڤ کردنی Pro🌈</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.github.tw3to.tw3ha/ReloadPrefs</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.github.tw3to.tw3ha</string>
+			<key>icon</key>
+			<string>icon/get@2x.png</string>
+			<key>key</key>
+			<string>get</string>
+			<key>label</key>
+			<string>GetVPN Premium</string>
+		</dict>
+		<dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/dow@2x.png</string>
+			<key>label</key>
+			<string>GetVPN</string>
+			<key>subtitle</key>
+			<string>لێرەوە داونلود بکە ♻️</string>
+			<key>url</key>
+			<string>https://apps.apple.com/app/get-vpn-best-fast-vpn-proxy/id1422378843</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>defaults</key>
+			<string>com.github.tw3to.tw3ha</string>
+			<key>footerText</key>
+			<string>ئەکیتڤ کردنی Pro🌈</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.github.tw3to.tw3ha/ReloadPrefs</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.github.tw3to.tw3ha</string>
+			<key>icon</key>
+			<string>icon/hex@2x.png</string>
+			<key>key</key>
+			<string>hex</string>
+			<key>label</key>
+			<string>Hexatech Premium</string>
+		</dict>
+		<dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/dow@2x.png</string>
+			<key>label</key>
+			<string>Hexatech</string>
+			<key>subtitle</key>
+			<string>لێرەوە داونلود بکە ♻️</string>
+			<key>url</key>
+			<string>https://apps.apple.com/app/hexatech-unlimited-vpn-proxy/id1053874290</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>defaults</key>
+			<string>com.github.tw3to.tw3ha</string>
+			<key>footerText</key>
+			<string>ئەکیتڤ کردنی Pro🌈</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.github.tw3to.tw3ha/ReloadPrefs</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.github.tw3to.tw3ha</string>
+			<key>icon</key>
+			<string>icon/por@2x.png</string>
+			<key>key</key>
+			<string>por</string>
+			<key>label</key>
+			<string>Proxy Master</string>
+		</dict>
+		<dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/dow@2x.png</string>
+			<key>label</key>
+			<string>Proxy Master</string>
+			<key>subtitle</key>
+			<string>لێرەوە داونلود بکە ♻️</string>
+			<key>url</key>
+			<string>https://apps.apple.com/app/vpn-%D9%85%D8%A7%D8%B3%D8%AA%D8%B1-proxy-master/id1488613445</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>defaults</key>
+			<string>com.github.tw3to.tw3ha</string>
+			<key>footerText</key>
+			<string>ئەکیتڤ کردنی Pro🌈</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.github.tw3to.tw3ha/ReloadPrefs</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.github.tw3to.tw3ha</string>
+			<key>icon</key>
+			<string>icon/mas@2x.png</string>
+			<key>key</key>
+			<string>mas</string>
+			<key>label</key>
+			<string>VPN Proxy Master VIP</string>
+		</dict>
+		<dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/dow@2x.png</string>
+			<key>label</key>
+			<string>VPN Proxy Master</string>
+			<key>subtitle</key>
+			<string>لێرەوە داونلود بکە ♻️</string>
+			<key>url</key>
+			<string>https://apps.apple.com/app/vpn-proxy-master-unlimited/id1025707485</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>defaults</key>
+			<string>com.github.tw3to.tw3ha</string>
+			<key>footerText</key>
+			<string>ئەکیتڤ کردنی Pro🌈</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.github.tw3to.tw3ha/ReloadPrefs</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.github.tw3to.tw3ha</string>
+			<key>icon</key>
+			<string>icon/oxy@2x.png</string>
+			<key>key</key>
+			<string>oxy</string>
+			<key>label</key>
+			<string>ProxyVPN Premium</string>
+		</dict>
+		<dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/dow@2x.png</string>
+			<key>label</key>
+			<string>ProxyVPN</string>
+			<key>subtitle</key>
+			<string>لێرەوە داونلود بکە ♻️</string>
+			<key>url</key>
+			<string>https://apps.apple.com/app/vpn-proxy-super-unlimited/id1248773446</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>defaults</key>
+			<string>com.github.tw3to.tw3ha</string>
+			<key>footerText</key>
+			<string>ئەکیتڤ کردنی Pro🌈</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.github.tw3to.tw3ha/ReloadPrefs</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.github.tw3to.tw3ha</string>
+			<key>icon</key>
+			<string>icon/psn@2x.png</string>
+			<key>key</key>
+			<string>psn</string>
+			<key>label</key>
+			<string>Psiphon Premium</string>
+		</dict>
+		<dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/dow@2x.png</string>
+			<key>label</key>
+			<string>ProxyVPN</string>
+			<key>subtitle</key>
+			<string>لێرەوە داونلود بکە ♻️</string>
+			<key>url</key>
+			<string>https://apps.apple.com/app/psiphon/id1276263909</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>defaults</key>
+			<string>com.github.tw3to.tw3ha</string>
+			<key>footerText</key>
+			<string>ئەکیتڤ کردنی Pro🌈</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.github.tw3to.tw3ha/ReloadPrefs</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.github.tw3to.tw3ha</string>
+			<key>icon</key>
+			<string>icon/sta@2x.png</string>
+			<key>key</key>
+			<string>sta</string>
+			<key>label</key>
+			<string>StarVPN Premium</string>
+		</dict>
+		<dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/dow@2x.png</string>
+			<key>label</key>
+			<string>StarVPN</string>
+			<key>subtitle</key>
+			<string>لێرەوە داونلود بکە ♻️</string>
+			<key>url</key>
+			<string>https://apps.apple.com/app/star-vpn-unlimited-wifi-proxy/id1115864690</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>defaults</key>
+			<string>com.github.tw3to.tw3ha</string>
+			<key>footerText</key>
+			<string>ئەکیتڤ کردنی Pro🌈</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.github.tw3to.tw3ha/ReloadPrefs</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.github.tw3to.tw3ha</string>
+			<key>icon</key>
+			<string>icon/sol@2x.png</string>
+			<key>key</key>
+			<string>sol</string>
+			<key>label</key>
+			<string>soloVPN Premium</string>
+		</dict>
+		<dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/dow@2x.png</string>
+			<key>label</key>
+			<string>soloVPN</string>
+			<key>subtitle</key>
+			<string>لێرەوە داونلود بکە ♻️</string>
+			<key>url</key>
+			<string>https://apps.apple.com/app/solo-vpn-pro-bettervpn-proxy/id1439297761</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>defaults</key>
+			<string>com.github.tw3to.tw3ha</string>
+			<key>footerText</key>
+			<string>ئەکیتڤ کردنی Pro🌈</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.github.tw3to.tw3ha/ReloadPrefs</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.github.tw3to.tw3ha</string>
+			<key>icon</key>
+			<string>icon/tur@2x.png</string>
+			<key>key</key>
+			<string>tur</string>
+			<key>label</key>
+			<string>Turbo VPN Premium</string>
+		</dict>
+		<dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/dow@2x.png</string>
+			<key>label</key>
+			<string>Turbo VPN</string>
+			<key>subtitle</key>
+			<string>لێرەوە داونلود بکە ♻️</string>
+			<key>url</key>
+			<string>https://apps.apple.com/app/turbo-vpn-private-browser/id1365309175</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>ئەکیتڤ کردنی Pro🌈</string>
+		</dict>
+		<dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>icon</key>
+			<string>icon/pa@2x.png</string>
+			<key>label</key>
+			<string>PayPal</string>
+			<key>subtitle</key>
+			<string>Support Me :</string>
+			<key>url</key>
+			<string>https://www.paypal.me/RashaIOS</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>VPN ئەکان ♻️</string>
+</dict>
+</plist>

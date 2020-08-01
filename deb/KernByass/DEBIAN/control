@@ -1,0 +1,9 @@
+Package: com.seeyouios.kernbypass007
+Name: KernBypass
+Version: 0.0.7-2
+Depends: mobilesubstrate, applist, preferenceloader, firmware(>=13.5)
+Architecture: iphoneos-arm
+Description: Fix For 13.5 ⭕️
+Maintainer: SeeYouIOS
+Author: SeeYouIOS
+Section: Tweaks
