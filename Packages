@@ -37,11 +37,11 @@ Installed-Size: 592
 Depiction: https://SeeYouiiOS.github.io/
 
 Package: com.seeyouios.modmenu
-Name: SeeYouIOS ModMenu 0.19 VNG 🇻🇳
+Name: SeeYouIOS ModMenu 0.19 VNG 
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Description: SeeYouIOS Mod Menu 0.19 VNG🇻🇳
-Filename: ./deb/VNG.deb
+Description: SeeYouIOS Mod Menu 0.19 VNG
+Filename: ./deb/ModVNG.deb
 Maintainer: SeeYouIOS
 Author: SeeYouIOS
 Section: Games
