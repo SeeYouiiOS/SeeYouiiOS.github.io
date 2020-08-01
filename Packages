@@ -1,9 +1,9 @@
-Package: com.rpgfarm.a-bypass
+Package: com.kurd.a-bypass
 Name: A-Bypass
 Depends: mobilesubstrate, com.muirey03.libmryipc
 Suggests: applist
 Architecture: iphoneos-arm
-Filename: ./deb/A-Bypass.deb
+Filename: ./deb/ABypass.deb
 Description: Super Jailbreak detection bypass!
 Maintainer: Baw Appie <pp121324@gmail.com>
 Author: Baw Appie <pp121324@gmail.com>
