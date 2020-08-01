@@ -30,7 +30,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: SeeYouIOS Mod Menu 
 Maintainer: SeeYouIOS
-Filename: ./deb/(SeeYouIOS)Modmenu Global 0.19.deb
+Filename: ./deb/GL.deb
 Author: SeeYouIOS
 Section: Tweaks
 Version: 0.19
