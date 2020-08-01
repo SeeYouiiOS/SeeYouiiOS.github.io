@@ -9,3 +9,42 @@ Depends: mobilesubstrate, com.muirey03.libmryipc
 Name: A-Bypass
 Author: RashidFarhad
 Depiction: https://SeeYouiiOS.github.io/description.html?id=com.rashidfarhad.a-bypass
+
+Package: com.seeyouios.modmenu19
+Name: SeeYouIOS ModMenu 0.19.0 KR 🇰🇷
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: SeeYouIOS Mod Menu 0.19.0 Kr🇰🇷
+Filename: ./debfiles/KR.deb
+Maintainer: SeeYouIOS
+Author: SeeYouIOS
+Section: Games
+Version: 0.19
+Installed-Size: 592
+Depiction: https://SeeYouiiOS.github.io/
+
+Package: com.seeyouios.modmenu
+Name: SeeYouIOS ModMenu 0.19 Global 🌍
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: SeeYouIOS Mod Menu 0.19 Global🌍
+Filename: ./debfiles/GLOBAL.deb
+Maintainer: SeeYouIOS
+Author: SeeYouIOS
+Section: Games
+Version: 0.19
+Installed-Size: 592
+Depiction: https://SeeYouiiOS.github.io/
+
+Package: com.seeyouios.modmenu
+Name: SeeYouIOS ModMenu 0.19 VNG 🇻🇳
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: SeeYouIOS Mod Menu 0.19 VNG🇻🇳
+Filename: ./debfiles/VNG.deb
+Maintainer: SeeYouIOS
+Author: SeeYouIOS
+Section: Games
+Version: 0.19
+Installed-Size: 592
+Depiction: https://SeeYouiiOS.github.io/

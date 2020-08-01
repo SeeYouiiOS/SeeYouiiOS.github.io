@@ -1,0 +1,10 @@
+Package: com.seeyouios.modmenu
+Name: SeeYouIOS ModMenu 0.19 VNG 🇻🇳
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: SeeYouIOS Mod Menu 0.19 VNG🇻🇳
+Maintainer: SeeYouIOS
+Author: SeeYouIOS
+Section: Games
+Version: 0.19
+Installed-Size: 592
