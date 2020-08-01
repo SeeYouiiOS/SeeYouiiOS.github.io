@@ -79,8 +79,6 @@ Tag: compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Version: 2.4
 Installed-Size: 6792
 
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gamegemDp
-Depiction: https://SeeYouiiOS.github.io/
 Author: Aidoo.TK <aidoo.tk@gmail.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: GameGem
@@ -93,8 +91,8 @@ Version: 1.5
 Architecture: iphoneos-arm
 Description: Memory debug tool for iOS. Support iPhone and iPad above iOS 8.x -♾
 dev: aidoo
-Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
-Icon: file:///Applications/GameGemiOS.app/AppIcon29x29@2x.png
+Tag: purpose::uikit, compatible::ios8, compatible::iOS 9-13
+Depiction: https://SeeYouiiOS.github.io
 
 Author: opa334 <opa334@protonmail.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
