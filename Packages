@@ -80,15 +80,15 @@ Version: 2.4
 Installed-Size: 6792
 
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gamegemDp
-Depiction: http://SeeYouiiOS.github.io/moreinfo/depiction.php?file=gamegemDp
+Depiction: http://SeeYouiiOS.github.io/
 Author: Aidoo.TK <aidoo.tk@gmail.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: GameGem
 Package: com.seeyouios.gamegem
 Depends: firmware (>= 8.0)
 Section: Tweaks
-Filename: ./deb/GameGem.deb
 Installed-Size: 10613
+Filename: ./deb/GameGem.deb
 Version: 1.5
 Architecture: iphoneos-arm
 Description: Memory debug tool for iOS. Support iPhone and iPad above iOS 8.x -♾
