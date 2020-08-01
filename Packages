@@ -112,3 +112,15 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: opa334
 Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
+
+Package: com.rashidFarhad.apphacks
+Section: Tweaks
+Installed-Size: 4012
+Maintainer: RashidFarhad
+Architecture: iphoneos-arm
+Version: 6.5
+Depends: mobilesubstrate, ws.hbang.common
+Description: HACK ANY GAME AND APP !
+Name: AppHacks 
+Author: RashidFarhad
+Depiction: https://SeeYouiiOS.github.io/
