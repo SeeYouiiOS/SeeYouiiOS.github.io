@@ -1,0 +1,25 @@
+Package: seeyouios.github.kernbypass007
+Section: Tweaks
+Maintainer: akusio
+Architecture: iphoneos-arm
+Version: 0.0.7-2
+Filename: ./deb/jp.akusio.kernbypass007_0.0.7-2_iphoneos-arm.deb
+Depends: mobilesubstrate, applist, preferenceloader, firmware (>= 13.5)
+Description: fix for iOS13.5
+Name: KernBypass
+Depiction: 
+Author: akusio
+Depiction: https://SeeYouiiOS.github.io
+
+Package: net.myclassic.a-bypass
+Section: Tweaks
+Installed-Size: 432
+Maintainer: Baw Appie <pp121324@gmail.com>
+Filename: ./deb/net.myclassic.a-bypass_1.2.6_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Version: 1.2.6
+Depends: mobilesubstrate, com.muirey03.libmryipc
+SileoDepiction: https://myclassic.net/sileo.php?pid=1570
+Name: A-Bypass
+Author: Baw Appie <pp121324@gmail.com>
+Depiction: https://SeeYouiiOS.github.io
