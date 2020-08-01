@@ -1,0 +1,11 @@
+Package: com.SeeYouIOS.a-bypass
+Section: Tweaks
+Installed-Size: 432
+Maintainer: RashidFarhad
+Architecture: iphoneos-arm
+Version: 1.2.6
+Filename: ./debfiles/ABypass.deb
+Depends: mobilesubstrate, com.muirey03.libmryipc
+Name: A-Bypass
+Author: RashidFarhad
+Depiction: https://SeeYouiiOS.github.io/description.html?id=com.rashidfarhad.a-bypass
