@@ -1,15 +1,13 @@
-Package: com.kurd.a-bypass
-Name: A-Bypass
-Depends: mobilesubstrate, com.muirey03.libmryipc
-Suggests: applist
+Package: com.rashidfarhad.a-bypass
+Section: Bypass
+Installed-Size: 432
+Maintainer: RashidFarhad
 Architecture: iphoneos-arm
 Filename: ./deb/ABypass.deb
-Description: Super Jailbreak detection bypass!
-Maintainer: Baw Appie <pp121324@gmail.com>
-Author: Baw Appie <pp121324@gmail.com>
-Section: Tweaks
-Version: 1.2.7
-Installed-Size: 444
+Version: 1.2.6
+Depends: mobilesubstrate, com.muirey03.libmryipc
+Name: A-Bypass
+Author: RashidFarhad
 
 Package: com.seeyouios.modmenuKR
 Name: SeeYouIOS ModMenu 0.19.0 KR 🇰🇷
