@@ -1,0 +1,5 @@
+#!/bin/bash
+killall -HUP SpringBoard
+echo " "
+echo "DLGMemor Injected 13.5 Version By KurdPaxsh (Sizar)"
+echo " "
