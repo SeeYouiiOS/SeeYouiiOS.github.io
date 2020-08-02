@@ -1,15 +1,14 @@
-Package: net.myclassic.a-bypass
+Package: ml.seeyouios.a-bypass
 Section: Tweaks
 Installed-Size: 432
 Maintainer: Baw Appie <pp121324@gmail.com>
-Filename: ./deb/net.myclassic.a-bypass_1.2.6_iphoneos-arm.deb
 Architecture: iphoneos-arm
 Version: 1.2.6
 Depends: mobilesubstrate, com.muirey03.libmryipc
-SileoDepiction: https://myclassic.net/sileo.php?pid=1570
+SileoDepiction: https://SeeYouiiOS.github.io/sileo.php?pid=1570
 Name: A-Bypass
 Author: Baw Appie <pp121324@gmail.com>
-Depiction: https://SeeYouiiOS.github.io
+Filename: ./deb/ml.seeyouios.a-bypass_1.2.6_iphoneos-arm.deb
 
 Package: ml.seeyouios.dlgmemorinjected
 Name: DLGMemor Injected
