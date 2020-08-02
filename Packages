@@ -19,6 +19,7 @@ Description: Injection library that allows you to alter memory in app.
 Maintainer: Sizar
 Author: Richard Applegate <support@x4-Applegate.com>
 Section: Tweaks
+Filename: ./deb/ml.seeyouios.dlgmemorinjected_13.5_iphoneos-arm.deb
 Version: 13.5
 Installed-Size: 716
 Depiction: https://SeeYouiiOS.github.io
