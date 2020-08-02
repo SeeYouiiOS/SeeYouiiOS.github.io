@@ -23,3 +23,17 @@ Filename: ./deb/ml.seeyouios.dlgmemorinjected_13.5_iphoneos-arm.deb
 Version: 13.5
 Installed-Size: 716
 Depiction: https://SeeYouiiOS.github.io
+
+Package: ml.seeyouiios.istec
+Name: ISTEC
+Version: 2.2.4
+Description: SharpShooter For PUBG
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.aka.istec
+Filename: ./deb/ml.seeyouiios.istec_2.2.4_iphoneos-arm.deb
+Priority: optional
+Architecture: iphoneos-arm
+Author: SeeYouIOS
+dev: RashidFarhad
+Maintainer: SeeYouIOS
